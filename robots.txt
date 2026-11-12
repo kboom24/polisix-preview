@@ -1,0 +1,6 @@
+# Draft site: keep out of search engines until launch.
+User-agent: *
+Disallow: /
+
+# At launch: replace with 'Allow: /', remove noindex meta tags, and set the real domain.
+Sitemap: https://www.polisix.example/sitemap.xml

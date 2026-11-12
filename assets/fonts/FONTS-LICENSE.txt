@@ -1,0 +1,6 @@
+Bundled fonts (subset + instanced woff2, self-hosted, no third-party requests):
+- Archivo (Omnibus-Type) - SIL Open Font License 1.1
+- Inter (Rasmus Andersson) - SIL Open Font License 1.1
+- Geist Mono (Vercel) - SIL Open Font License 1.1
+Full license text: https://openfontlicense.org/open-font-license-official-text/
+These are modified (subset) versions and are not renamed reserved font names for resale; they ship only as web assets of this site.

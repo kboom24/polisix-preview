@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Draft: domain is a placeholder. Site is noindex until launch. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://www.polisix.example/</loc></url>
+  <url><loc>https://www.polisix.example/services/</loc></url>
+  <url><loc>https://www.polisix.example/services/leads.html</loc></url>
+  <url><loc>https://www.polisix.example/services/pay-per-call.html</loc></url>
+  <url><loc>https://www.polisix.example/services/call-generation.html</loc></url>
+  <url><loc>https://www.polisix.example/services/marketing.html</loc></url>
+  <url><loc>https://www.polisix.example/services/acquisition-programs.html</loc></url>
+  <url><loc>https://www.polisix.example/services/compliance.html</loc></url>
+  <url><loc>https://www.polisix.example/services/data-analytics.html</loc></url>
+  <url><loc>https://www.polisix.example/who-we-serve/</loc></url>
+  <url><loc>https://www.polisix.example/who-we-serve/agents.html</loc></url>
+  <url><loc>https://www.polisix.example/who-we-serve/agencies.html</loc></url>
+  <url><loc>https://www.polisix.example/who-we-serve/carriers.html</loc></url>
+  <url><loc>https://www.polisix.example/company/</loc></url>
+  <url><loc>https://www.polisix.example/academy/</loc></url>
+  <url><loc>https://www.polisix.example/console/</loc></url>
+  <url><loc>https://www.polisix.example/console/demo.html</loc></url>
+  <url><loc>https://www.polisix.example/contact/</loc></url>
+  <url><loc>https://www.polisix.example/legal/privacy.html</loc></url>
+  <url><loc>https://www.polisix.example/legal/terms.html</loc></url>
+  <url><loc>https://www.polisix.example/legal/consent.html</loc></url>
+  <url><loc>https://www.polisix.example/legal/licenses.html</loc></url>
+</urlset>
